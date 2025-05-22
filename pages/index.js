@@ -65,6 +65,11 @@ export default function Home() {
               Admin Page (requires authentication)
             </Link>
           </li>
+          <li>
+            <Link href="/vulnerabilities">
+              Vulnerabilities Demo (XSS and Command Injection)
+            </Link>
+          </li>
         </ul>
       </div>
 
