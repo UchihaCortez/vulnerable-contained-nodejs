@@ -1,4 +1,6 @@
 # Vulnerable Next.js Application
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUchihaCortez%2Fvulnerable-contained-nodejs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FUchihaCortez%2Fvulnerable-contained-nodejs?ref=badge_shield)
+
 
 This repository contains a sample Next.js application that demonstrates the authorization bypass vulnerability in Next.js Middleware (GHSA-f82v-jwr5-mffw). The vulnerability was present in Next.js version 13.5.6 and fixed in version 13.5.9.
 
@@ -77,3 +79,6 @@ To fix the Next.js middleware vulnerability, update Next.js to version 13.5.9 or
   "react-dom": "^18.2.0"
 }
 ```
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FUchihaCortez%2Fvulnerable-contained-nodejs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FUchihaCortez%2Fvulnerable-contained-nodejs?ref=badge_large)
